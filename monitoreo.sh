@@ -16,12 +16,12 @@
 SERVICIO="traccar"
 LOG="/var/log/monitoreo_traccar.log"
 FECHA=$(date "+%Y-%m-%d %H:%M:%S")
-ENDPOINT="http://159.54.130.253:3000/enviar"
-NUMERO="50245214000"
+ENDPOINT="http://endpointwhasapp/enviar"
+NUMERO="tunumero"
 
 DB_USER="root"
-DB_PASS="-Nesala6794"
-DB_NAME="antiloss"
+DB_PASS="pass"
+DB_NAME="db"
 
 # ======================================================
 # 📤 FUNCIÓN PARA ENVIAR A WHATSAPP
