@@ -125,7 +125,7 @@ accede a /var/tmp
 
 Editar estas variables:
 
-NUMERO="50245214000"       # Número de WhatsApp al que se enviarán alertas
+NUMERO="aquitunumerowhasapp"       # Número de WhatsApp al que se enviarán alertas
 ENDPOINT="http://IP:PORT/enviar"  # API para enviar mensajes
 DB_USER="root"             # Usuario DB
 DB_PASS="CONTRASEÑA"       # Contraseña DB
